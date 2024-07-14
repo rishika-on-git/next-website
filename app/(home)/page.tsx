@@ -14,7 +14,7 @@ export default function Home() {
       <TextGenerateEffectDemo />
       <StickyScrollRevealDemo />
       <ParallaxScrollDemo/>
-      <CanvasRevealEffectDemo/>
+      {/* <CanvasRevealEffectDemo/> */}
       <InfiniteMovingCardsDemo />
       <BackgroundBeamsDemo />
      
